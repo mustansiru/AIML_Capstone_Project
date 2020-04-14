@@ -1,4 +1,4 @@
-# AIML_Capstone_Project
+# AIML Capstone Project
 Aspect based sentiment analysis Capstone project for Great Learning AIML course 2019
 
 ## Pre-processing
