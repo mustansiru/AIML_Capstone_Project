@@ -1,4 +1,6 @@
-# AIML Capstone Project
+# Aspect-based Sentiment Analysis
+*University of Texas & Great Lakes AIML Capstone Project*
+
 Aspect based sentiment analysis Capstone project for Great Learning AIML course 2019
 
 ## Pre-processing
